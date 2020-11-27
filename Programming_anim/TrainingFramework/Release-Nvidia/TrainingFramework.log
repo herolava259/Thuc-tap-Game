@@ -1,0 +1,230 @@
+﻿  GSInfo.cpp
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C2065: 'GameButton': undeclared identifier
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(50): error C2065: 'GameButton': undeclared identifier
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(50): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C2065: 'GameButton': undeclared identifier
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+GSInfo.cpp(22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+GSInfo.cpp(23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+GSInfo.cpp(28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  OptWinObject.cpp
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C2065: 'GameButton': undeclared identifier
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(50): error C2065: 'GameButton': undeclared identifier
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(50): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C2065: 'GameButton': undeclared identifier
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\OptWinObject.h(8): error C2011: 'OptWinObject': 'class' type redefinition
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(12): note: see declaration of 'OptWinObject'
+OptWinObject.cpp(17): error C2027: use of undefined type 'OptWinObject'
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(12): note: see declaration of 'OptWinObject'
+OptWinObject.cpp(19): error C2065: 'm_Vec3Scale': undeclared identifier
+OptWinObject.cpp(20): error C2065: 'm_Vec3Position': undeclared identifier
+OptWinObject.cpp(21): error C2065: 'm_WorldMat': undeclared identifier
+OptWinObject.cpp(25): error C2027: use of undefined type 'OptWinObject'
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(12): note: see declaration of 'OptWinObject'
+OptWinObject.cpp(27): error C2065: 'm_currentFrame': undeclared identifier
+OptWinObject.cpp(30): error C2065: 'm_endAnimation': undeclared identifier
+OptWinObject.cpp(31): error C2065: 'm_OnWindow': undeclared identifier
+OptWinObject.cpp(32): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+OptWinObject.cpp(32): error C2227: left of '->CaculateWorldMatrix' must point to class/struct/union/generic type
+OptWinObject.cpp(36): error C2027: use of undefined type 'OptWinObject'
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(12): note: see declaration of 'OptWinObject'
+OptWinObject.cpp(36): error C2146: syntax error: missing ')' before identifier 'model'
+OptWinObject.cpp(36): error C2079: 'std::shared_ptr<Models>' uses undefined class 'OptWinObject'
+OptWinObject.cpp(36): error C2936: 'std::shared_ptr<Models>': template-id redefined as a global data variable
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\baseobject.h(22): note: see declaration of 'std::shared_ptr<Models>'
+OptWinObject.cpp(36): error C2146: syntax error: missing ';' before identifier 'model'
+OptWinObject.cpp(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+OptWinObject.cpp(36): error C2936: 'std::shared_ptr<Shaders>': template-id redefined as a global data variable
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\baseobject.h(23): note: see declaration of 'std::shared_ptr<Shaders>'
+OptWinObject.cpp(36): error C2146: syntax error: missing ';' before identifier 'shader'
+OptWinObject.cpp(36): error C2059: syntax error: ')'
+OptWinObject.cpp(36): error C2143: syntax error: missing ';' before '{'
+OptWinObject.cpp(36): error C2447: '{': missing function header (old-style formal list?)
+OptWinObject.cpp(51): error C2027: use of undefined type 'OptWinObject'
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(12): note: see declaration of 'OptWinObject'
+OptWinObject.cpp(52): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(52): error C2227: left of '->program' must point to class/struct/union/generic type
+  OptWinObject.cpp(52): note: type is 'unknown-type'
+OptWinObject.cpp(53): error C2065: 'm_pModel': undeclared identifier
+OptWinObject.cpp(53): error C2227: left of '->GetVertexObject' must point to class/struct/union/generic type
+  OptWinObject.cpp(53): note: type is 'unknown-type'
+OptWinObject.cpp(53): error C2660: 'glBindBuffer': function does not take 1 arguments
+OptWinObject.cpp(54): error C2065: 'm_pModel': undeclared identifier
+OptWinObject.cpp(54): error C2227: left of '->GetIndiceObject' must point to class/struct/union/generic type
+  OptWinObject.cpp(54): note: type is 'unknown-type'
+OptWinObject.cpp(54): error C2660: 'glBindBuffer': function does not take 1 arguments
+OptWinObject.cpp(59): error C2065: 'm_WorldMat': undeclared identifier
+OptWinObject.cpp(61): error C2065: 'm_pTexture': undeclared identifier
+OptWinObject.cpp(65): error C2065: 'm_pTexture': undeclared identifier
+OptWinObject.cpp(65): error C2227: left of '->Get2DTextureAdd' must point to class/struct/union/generic type
+  OptWinObject.cpp(65): note: type is 'unknown-type'
+OptWinObject.cpp(65): error C2660: 'glBindTexture': function does not take 1 arguments
+OptWinObject.cpp(66): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(66): error C2227: left of '->iTextureLoc' must point to class/struct/union/generic type
+  OptWinObject.cpp(66): note: type is 'unknown-type'
+OptWinObject.cpp(67): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(67): error C2227: left of '->iTextureLoc' must point to class/struct/union/generic type
+  OptWinObject.cpp(67): note: type is 'unknown-type'
+OptWinObject.cpp(72): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(72): error C2227: left of '->GetUniformLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(72): note: type is 'unknown-type'
+OptWinObject.cpp(74): error C2065: 'm_Color': undeclared identifier
+OptWinObject.cpp(74): error C2228: left of '.x' must have class/struct/union
+  OptWinObject.cpp(74): note: type is 'unknown-type'
+OptWinObject.cpp(74): error C2228: left of '.y' must have class/struct/union
+  OptWinObject.cpp(74): note: type is 'unknown-type'
+OptWinObject.cpp(74): error C2228: left of '.z' must have class/struct/union
+  OptWinObject.cpp(74): note: type is 'unknown-type'
+OptWinObject.cpp(74): error C2228: left of '.w' must have class/struct/union
+  OptWinObject.cpp(74): note: type is 'unknown-type'
+OptWinObject.cpp(74): error C2660: 'glUniform4f': function does not take 1 arguments
+OptWinObject.cpp(79): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(79): error C2227: left of '->GetAttribLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(79): note: type is 'unknown-type'
+OptWinObject.cpp(87): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(87): error C2227: left of '->GetAttribLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(87): note: type is 'unknown-type'
+OptWinObject.cpp(95): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(95): error C2227: left of '->GetUniformLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(95): note: type is 'unknown-type'
+OptWinObject.cpp(100): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(100): error C2227: left of '->GetUniformLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(100): note: type is 'unknown-type'
+OptWinObject.cpp(105): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(105): error C2227: left of '->GetUniformLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(105): note: type is 'unknown-type'
+OptWinObject.cpp(107): error C2065: 'm_numFrames': undeclared identifier
+OptWinObject.cpp(110): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(110): error C2227: left of '->GetUniformLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(110): note: type is 'unknown-type'
+OptWinObject.cpp(112): error C2065: 'm_currentFrame': undeclared identifier
+OptWinObject.cpp(114): error C2065: 'm_pModel': undeclared identifier
+OptWinObject.cpp(114): error C2227: left of '->GetNumIndiceObject' must point to class/struct/union/generic type
+  OptWinObject.cpp(114): note: type is 'unknown-type'
+OptWinObject.cpp(114): error C2660: 'glDrawElements': function does not take 3 arguments
+OptWinObject.cpp(121): error C2027: use of undefined type 'OptWinObject'
+  c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(12): note: see declaration of 'OptWinObject'
+OptWinObject.cpp(122): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(123): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(123): error C2227: left of '->program' must point to class/struct/union/generic type
+  OptWinObject.cpp(123): note: type is 'unknown-type'
+OptWinObject.cpp(124): error C2065: 'm_pModel': undeclared identifier
+OptWinObject.cpp(124): error C2227: left of '->GetVertexObject' must point to class/struct/union/generic type
+  OptWinObject.cpp(124): note: type is 'unknown-type'
+OptWinObject.cpp(124): error C2660: 'glBindBuffer': function does not take 1 arguments
+OptWinObject.cpp(125): error C2065: 'm_pModel': undeclared identifier
+OptWinObject.cpp(125): error C2227: left of '->GetIndiceObject' must point to class/struct/union/generic type
+  OptWinObject.cpp(125): note: type is 'unknown-type'
+OptWinObject.cpp(125): error C2660: 'glBindBuffer': function does not take 1 arguments
+OptWinObject.cpp(130): error C2065: 'm_WorldMat': undeclared identifier
+OptWinObject.cpp(132): error C2065: 'm_pTexture': undeclared identifier
+OptWinObject.cpp(136): error C2065: 'm_pTexture': undeclared identifier
+OptWinObject.cpp(136): error C2227: left of '->Get2DTextureAdd' must point to class/struct/union/generic type
+  OptWinObject.cpp(136): note: type is 'unknown-type'
+OptWinObject.cpp(136): error C2660: 'glBindTexture': function does not take 1 arguments
+OptWinObject.cpp(137): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(137): error C2227: left of '->iTextureLoc' must point to class/struct/union/generic type
+  OptWinObject.cpp(137): note: type is 'unknown-type'
+OptWinObject.cpp(138): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(138): error C2227: left of '->iTextureLoc' must point to class/struct/union/generic type
+  OptWinObject.cpp(138): note: type is 'unknown-type'
+OptWinObject.cpp(143): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(143): error C2227: left of '->GetUniformLocation' must point to class/struct/union/generic type
+  OptWinObject.cpp(143): note: type is 'unknown-type'
+OptWinObject.cpp(145): error C2065: 'm_Color': undeclared identifier
+OptWinObject.cpp(145): error C2228: left of '.x' must have class/struct/union
+  OptWinObject.cpp(145): note: type is 'unknown-type'
+OptWinObject.cpp(145): error C2228: left of '.y' must have class/struct/union
+  OptWinObject.cpp(145): note: type is 'unknown-type'
+OptWinObject.cpp(145): error C2228: left of '.z' must have class/struct/union
+  OptWinObject.cpp(145): note: type is 'unknown-type'
+OptWinObject.cpp(145): error C2228: left of '.w' must have class/struct/union
+  OptWinObject.cpp(145): note: type is 'unknown-type'
+OptWinObject.cpp(145): error C2660: 'glUniform4f': function does not take 1 arguments
+OptWinObject.cpp(150): error C2065: 'm_pShader': undeclared identifier
+OptWinObject.cpp(150): error C2227: left of '->GetAttribLocation' must point to class/struct/union/generic type
+OptWinObject.cpp(150): fatal error C1003: error count exceeds 100; stopping compilation
+  Application.cpp
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gamestates\gamestatebase.h(31): error C2061: syntax error: identifier 'StateTypes'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+  GameButton.cpp
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C2065: 'GameButton': undeclared identifier
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(16): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(50): error C2065: 'GameButton': undeclared identifier
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gameobject\OptWinObject.h(50): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C2065: 'GameButton': undeclared identifier
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C2923: 'std::shared_ptr': 'GameButton' is not a valid template type argument for parameter '_Ty'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameStates/GSPlay.h(66): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+  GameStatebase.cpp
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+  GameStateMachine.cpp
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gamestates\gamestatebase.h(31): error C2061: syntax error: identifier 'StateTypes'
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+src\GameStates\GameStateMachine.cpp(29): error C2660: 'GameStateBase::CreateState': function does not take 1 arguments
+src\GameStates\GameStateMachine.cpp(42): error C2660: 'GameStateBase::CreateState': function does not take 1 arguments
+  GSIntro.cpp
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gamestates\GSPlay.h(18): error C2504: 'GameStateBase': base class undefined
+src\GameStates\GSIntro.cpp(26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+src\GameStates\GSIntro.cpp(31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GSMenu.cpp
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+c:\users\admin\desktop\programming_anim\programming_anim\trainingframework\src\gamestates\GSPlay.h(18): error C2504: 'GameStateBase': base class undefined
+src\GameStates\GSMenu.cpp(26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+src\GameStates\GSMenu.cpp(32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+src\GameStates\GSMenu.cpp(42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+src\GameStates\GSMenu.cpp(54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GSPlay.cpp
+C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\Firgue.h(80): warning C4091: 'typedef ': ignored on left of 'AnimationAttribute' when no variable is declared
+src\GameStates\GSPlay.cpp(38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+src\GameStates\GSPlay.cpp(43): error C2371: 'texture': redefinition; different basic types
+  src\GameStates\GSPlay.cpp(33): note: see declaration of 'texture'
+src\GameStates\GSPlay.cpp(51): error C2371: 'texture': redefinition; different basic types
+  src\GameStates\GSPlay.cpp(33): note: see declaration of 'texture'
+src\GameStates\GSPlay.cpp(52): error C2374: 'button': redefinition; multiple initialization
+  src\GameStates\GSPlay.cpp(44): note: see declaration of 'button'
+src\GameStates\GSPlay.cpp(53): error C2039: 'Set2DPosition': is not a member of 'std::shared_ptr<GameButton>'
+  C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\OptWinObject.h(16): note: see declaration of 'std::shared_ptr<GameButton>'
+src\GameStates\GSPlay.cpp(54): error C2039: 'SetSize': is not a member of 'std::shared_ptr<GameButton>'
+  C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\OptWinObject.h(16): note: see declaration of 'std::shared_ptr<GameButton>'
+src\GameStates\GSPlay.cpp(55): error C2039: 'SetOnClick': is not a member of 'std::shared_ptr<GameButton>'
+  C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\OptWinObject.h(16): note: see declaration of 'std::shared_ptr<GameButton>'
+src\GameStates\GSPlay.cpp(60): error C2371: 'texture': redefinition; different basic types
+  src\GameStates\GSPlay.cpp(33): note: see declaration of 'texture'
+src\GameStates\GSPlay.cpp(61): error C2374: 'button': redefinition; multiple initialization
+  src\GameStates\GSPlay.cpp(44): note: see declaration of 'button'
+src\GameStates\GSPlay.cpp(62): error C2039: 'Set2DPosition': is not a member of 'std::shared_ptr<GameButton>'
+  C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\OptWinObject.h(16): note: see declaration of 'std::shared_ptr<GameButton>'
+src\GameStates\GSPlay.cpp(63): error C2039: 'SetSize': is not a member of 'std::shared_ptr<GameButton>'
+  C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\OptWinObject.h(16): note: see declaration of 'std::shared_ptr<GameButton>'
+src\GameStates\GSPlay.cpp(64): error C2039: 'SetOnClick': is not a member of 'std::shared_ptr<GameButton>'
+  C:\Users\Admin\Desktop\Programming_anim\Programming_anim\TrainingFramework\src\GameObject\OptWinObject.h(16): note: see declaration of 'std::shared_ptr<GameButton>'
+src\GameStates\GSPlay.cpp(70): error C2371: 'shader': redefinition; different basic types
+  src\GameStates\GSPlay.cpp(36): note: see declaration of 'shader'
+src\GameStates\GSPlay.cpp(71): error C2371: 'texture': redefinition; different basic types
+  src\GameStates\GSPlay.cpp(33): note: see declaration of 'texture'
+src\GameStates\GSPlay.cpp(129): warning C4018: '<': signed/unsigned mismatch
+src\GameStates\GSPlay.cpp(134): warning C4018: '<': signed/unsigned mismatch
+src\GameStates\GSPlay.cpp(208): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(209): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(210): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(219): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(220): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(221): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(263): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(264): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(265): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(340): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(341): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+src\GameStates\GSPlay.cpp(342): error C3861: 'abs_value': identifier not found
